@@ -5,7 +5,7 @@ url = 'https://geofeed.constant.com/'
 
 output_file = 'ips.txt'
 
-country_codes = {"NL", "DE", "PL", "GB", "ES"}
+country_codes = {"NL", "DE", "PL", "GB", "ES", "US", "FR"}
 
 headers = {
     'User-Agent': 'FXtelekom IP Crawler (Contact: contact@fxtelekom.org)',
